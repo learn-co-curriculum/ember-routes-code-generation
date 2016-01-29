@@ -20,4 +20,4 @@ Run `ember g route index` then edit the newly created `index.hbs` and...
 ## Other kinds of Code Generation
 You'll see Ember create all kinds of objects for you from Controllers, to View objects. Like everything else in Ember, if the default is enough, leave it alone, but you can always generate your own to customize the app.
 
-<a href='https://learn.co/lessons/ember-routes-code-generation' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-routes-code-generation' title='Ember Routes - Code Generation'>Ember Routes - Code Generation</a> on Learn.co and start learning to code for free.</p>
